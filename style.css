@@ -1,3 +1,7 @@
+#navbar.is-custom {
+    display: none;
+}
+
 #search-bar-entry {
     display: none;
 }
